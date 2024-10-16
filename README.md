@@ -1,1 +1,1 @@
-"#dikekarss"
+"dikekarss"
